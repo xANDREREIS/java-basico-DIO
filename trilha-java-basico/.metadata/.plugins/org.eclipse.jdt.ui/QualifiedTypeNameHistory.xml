@@ -2,6 +2,20 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.security.DomainCombiner"/>
     <fullyQualifiedTypeName name="SmartTV"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="estruturasDeRepeticao.Ex1_NomeIdade"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="com.introducaoaocurso.atribuicaoereferencia.MeuObj"/>
+    <fullyQualifiedTypeName name="com.introducaoaocurso.projetono.No"/>
+    <fullyQualifiedTypeName name="com.pilha.implementacaoclassepilha.Pilha"/>
+    <fullyQualifiedTypeName name="com.pilha.implementacaoclassepilha.No"/>
+    <fullyQualifiedTypeName name="com.fila.implementacaoclassefila.Fila"/>
+    <fullyQualifiedTypeName name="com.fila.implementacaoclassefila.No"/>
+    <fullyQualifiedTypeName name="java.lang.Throwable"/>
+    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="com.listaencadeada.implementacaoclasselistaencadeada.No"/>
+    <fullyQualifiedTypeName name="com.listaencadeada.implementacaoclasselistaencadeada.ListaEncadeada"/>
 </qualifiedTypeNameHistroy>
