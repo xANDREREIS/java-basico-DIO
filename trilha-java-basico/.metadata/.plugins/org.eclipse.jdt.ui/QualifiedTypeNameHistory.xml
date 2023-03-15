@@ -15,7 +15,12 @@
     <fullyQualifiedTypeName name="com.fila.implementacaoclassefila.Fila"/>
     <fullyQualifiedTypeName name="com.fila.implementacaoclassefila.No"/>
     <fullyQualifiedTypeName name="java.lang.Throwable"/>
-    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
-    <fullyQualifiedTypeName name="com.listaencadeada.implementacaoclasselistaencadeada.No"/>
     <fullyQualifiedTypeName name="com.listaencadeada.implementacaoclasselistaencadeada.ListaEncadeada"/>
+    <fullyQualifiedTypeName name="com.listaencadeada.implementacaoclasselistaencadeada.No"/>
+    <fullyQualifiedTypeName name="com.listaencadeada.implementacaoclasselistaduplamenteencadeada.NoDuplo"/>
+    <fullyQualifiedTypeName name="com.listaencadeada.implementacaoclasselistaduplamenteencadeada.ListaDuplamenteEncadeada"/>
+    <fullyQualifiedTypeName name="com.listacirculares.implementacaolistacircular.No"/>
+    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="com.listacirculares.implementacaolistacircular.Main"/>
+    <fullyQualifiedTypeName name="com.listacirculares.implementacaolistacircular.ListaCircular"/>
 </qualifiedTypeNameHistroy>
